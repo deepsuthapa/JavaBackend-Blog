@@ -1,6 +1,5 @@
 package com.blog.demo.Models;
 
-import com.sun.tools.jconsole.JConsoleContext;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,6 +1,5 @@
 package com.blog.demo.Models;
 
-import jakarta.annotation.Nullable;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,7 +1,5 @@
 package com.blog.demo.Models;
 
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpSession;
 import lombok.Getter;
 import lombok.Setter;
 
